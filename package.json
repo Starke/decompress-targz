@@ -26,14 +26,14 @@
 		"targz"
 	],
 	"dependencies": {
-		"decompress-tar": "^4.1.1",
-		"file-type": "^5.2.0",
-		"is-stream": "^1.1.0"
+		"decompress-tar": "Starke/decompress-tar#master",
+		"file-type": "^17.1.6",
+		"is-stream": "^3.0.0"
 	},
 	"devDependencies": {
 		"ava": "*",
-		"is-jpg": "^1.0.0",
-		"pify": "^3.0.0",
+		"is-jpg": "^3.0.0",
+		"pify": "^6.0.0",
 		"xo": "*"
 	}
 }
